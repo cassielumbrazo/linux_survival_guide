@@ -5,6 +5,7 @@
 I got this error when *randomly* trying to push changes to a github repo. I was, 
 * ssh'ed into a linux box from a vs code terminal
 * previously `git clone`d a github repo which started with `https:`
+* was above to push to the repo without signing into github and had no issues, then suddently... I got that error. 
 
 There were two main problems here. 
 
