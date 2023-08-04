@@ -16,9 +16,9 @@ I found the solution to this problem from here: https://stackoverflow.com/questi
 ### Problem 2. 
 I needed to create a personal access token from github.
 Prior to this experience, I did not know what a personal access token was.\
-I guess if you use git clone for a repo which starts with \https (from inside linux box with vs code or other?? I'm not sure) but the linux box connection requires a github "personal access token".\
+I guess if you use `git clone` for a repo which starts with `\https` (from inside linux box with vs code or other?? I'm not sure) but the linux box connection requires a github "personal access token".\
 So, you can create one, then use it to sign into your github account via the command line, in place of a password.
-* Go to github settings > Developer Settings > and create a person access token.
+* Go to github Settings > Developer Settings > and create a person access token.
 * Then, use the person access token (in the place of a password) to sign into your GitHub account via the command line from vs code.
 
 If you want to save the token so that you do not have to add it every time you want to push to your github repo, you can. 
