@@ -24,7 +24,7 @@ So, you can create one, then use it to sign into your github account via the com
 
 If you want to save the token so that you do not have to add it every time you want to push to your github repo, you can. 
 I did it following the instructions here: https://git-scm.com/book/en/v2/Git-Tools-Credential-Storage
-but, in short, the line of code to do this is below
+but, in short, the line of code to do this is below.
 > `git config --global credential.helper 'cache --timeout=43200'`
 
-Thank you Michelle Hu. You're truely a great friend and programmer. 
+Thank you Michelle Hu for your help with thos. You're truely a great friend and programmer.
