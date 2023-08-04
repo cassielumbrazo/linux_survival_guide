@@ -10,7 +10,7 @@ There were two main problems here.
 
 ### Problem 1. 
 There is a setting in VS code you must uncheck, called `Git Terminal Authentication`.
-* Go to vs code settings > search Git Authentication, and uncheck the box.\
+* Go to vs code settings > search Git Authentication, and **uncheck the box.**\
 I found the solution to this problem from here: https://stackoverflow.com/questions/62860280/git-push-missing-or-invalid-credentials-fatal-authentication-failed-for-http![image](https://github.com/cassielumbrazo/linux_survival_guide/assets/40898946/f6ad3f6f-30d7-45f7-89b8-0ba3b4113661)
 
 ### Problem 2. 
