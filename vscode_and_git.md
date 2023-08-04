@@ -1,5 +1,5 @@
 # vs code and git 
-### keeping track of vs code and git issues here 
+#### keeping track of vs code and git issues here 
 
 ## "Error: connect ECONNREFUSED /run/user/523/vscode-git-37445154a.sock ... etc.'
 I got this error when *randomly* trying to push changes to a github repo. I was, 
